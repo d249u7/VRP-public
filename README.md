@@ -1,3 +1,7 @@
+A server that turns node and crew input into a weekly job schedule and optimal routes.
+
+
+
 Run the server.py script to initiate the program.\
 In main.py, to the main function, add the @benchmark decorator to start collecting data in each request.\
 The data will be written to the directory in .json format.\
